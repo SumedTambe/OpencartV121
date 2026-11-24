@@ -4,18 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11232026">
-      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11242026">
+      <change afterPath="$PROJECT_DIR$/LearningDocs/OpencartV121_Learning_Guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningDocs/OpencartV121_Learning_Guide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-11-22-2026-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-11-23-2026-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2026.11.24.13.34.44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_account_registration_20261124010000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_login_test_20261124012508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_login_test_20261124013321.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_003_LoginDDT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/AccountRegistrationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/MyAccountPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testBase/BaseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testCases/TC001_AccountRegistrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testCases/TC002_LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testCases/TC_003_LoginDDT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/DataProviders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ExcelUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ExtentReportManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crossbrowsertesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowsertesting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/AccountRegistrationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC001_AccountRegistrationTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +106,7 @@
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml.executor": "Run",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml.executor": "Run",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml.executor": "Run",
+    "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml.executor": "Run",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.verify_account_registration (1).executor": "Run",
@@ -94,11 +134,21 @@
       <recent name="D:\PractiesJAVASELENIUM\OpencartV121\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml">
+  <component name="RunManager" selected="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml">
     <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpencartV121" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/crossbrowsertesting.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -107,8 +157,18 @@
     </configuration>
     <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpencartV121" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/grouping.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -117,7 +177,27 @@
     </configuration>
     <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpencartV121" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/master.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpencartV121" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -129,24 +209,6 @@
       <module name="OpencartV121" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC001AccountRegistrationTest.verify_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpencartV121" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC001AccountRegistrationTest" />
-      <option name="METHOD_NAME" value="verify_account_registration" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -173,6 +235,7 @@
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
@@ -180,13 +243,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.TC001_AccountRegistrationTest" />
+      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" />
+      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
+      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml" />
+      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
+        <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml" />
+        <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" />
-        <item itemvalue="TestNG.TC001AccountRegistrationTest.verify_account_registration" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +287,8 @@
     <MESSAGE value="11222026" />
     <MESSAGE value="11222026_1" />
     <MESSAGE value="11232026" />
-    <option name="LAST_COMMIT_MESSAGE" value="11232026" />
+    <MESSAGE value="11242026" />
+    <option name="LAST_COMMIT_MESSAGE" value="11242026" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

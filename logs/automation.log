@@ -1,0 +1,105 @@
+2026-11-24 12:33:42 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:34:48 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:35:46 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:40:07 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:52:51 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:53:14 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 12:53:14 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 12:53:14 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 12:53:14 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 12:53:15 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 12:53:17 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 12:53:20 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 12:53:22 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
+2026-11-24 12:53:26 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 12:53:29 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 12:53:29 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 12:53:39 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 12:53:39 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 12:53:50 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 12:53:50 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 12:54:07 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 12:54:07 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 12:54:10 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 12:59:52 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\grouping.xml
+
+2026-11-24 12:59:56 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 12:59:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 12:59:57 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 12:59:57 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 13:00:00 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 13:00:00 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 13:00:04 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 13:00:08 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
+2026-11-24 13:00:12 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:00:15 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:00:15 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:00:26 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:00:26 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:00:38 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:00:38 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:00:54 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:00:54 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:00:58 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:16:35 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 13:16:41 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:16:45 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:16:45 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:16:55 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:16:55 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:17:06 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:17:06 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:17:17 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:17:17 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:17:19 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:22:42 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 13:22:48 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:22:51 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:22:51 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:23:02 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:23:02 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:23:25 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:23:25 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:23:36 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:23:36 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2026-11-24 13:23:38 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2026-11-24 13:24:47 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 13:24:52 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 13:24:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 13:24:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 13:24:53 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 13:24:54 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 13:24:54 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 13:24:58 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 13:32:58 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 13:33:03 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 13:33:03 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 13:33:03 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 13:33:03 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 13:33:04 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 13:33:06 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 13:33:09 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 13:34:44 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\test-output\testng-failed.xml
+
+2026-11-24 13:34:48 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 13:34:51 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
