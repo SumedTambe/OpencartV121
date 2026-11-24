@@ -10,7 +10,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 
 
 
-    @Test
+    @Test(groups = {"Regression", "Master"})
     public void verify_account_registration()
     {
         logger.info("*** Starting TC001_AccountRegistrationTest ***");
@@ -29,7 +29,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
             regpage.setFirstName(randomString().toUpperCase());
             regpage.setLastName(randomString().toUpperCase());
             regpage.setEmail(randomString() + "@gmail.com");
-            regpage.setTelephone(randownNumber());
+            regpage.setTelephone(randomNumber());
 
 
             String password = randomAlphaNumeric();
@@ -50,6 +50,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
         }
 
         logger.info("*** Finished TC001_AccountRegistrationTest ***");
+
     }
 
 

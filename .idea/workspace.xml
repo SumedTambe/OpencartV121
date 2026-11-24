@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11222026_1">
-      <change afterPath="$PROJECT_DIR$/testData/Opencart_LoginData.xlsx" afterDir="false" />
+    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11232026">
+      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossbrowsertesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowsertesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/AccountRegistrationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC001_AccountRegistrationTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +65,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml.executor": "Run",
+    "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml.executor": "Run",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml.executor": "Run",
     "TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.executor": "Run",
@@ -66,7 +74,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/PractiesJAVASELENIUM/OpencartV121/testData",
+    "last_opened_file_path": "D:/PractiesJAVASELENIUM/OpencartV121",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,14 +90,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PractiesJAVASELENIUM\OpencartV121\testData" />
       <recent name="D:\PractiesJAVASELENIUM\OpencartV121" />
+      <recent name="D:\PractiesJAVASELENIUM\OpencartV121\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml">
+  <component name="RunManager" selected="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml">
     <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpencartV121" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/crossbrowsertesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpencartV121" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/grouping.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -111,23 +129,6 @@
       <module name="OpencartV121" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC001AccountRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpencartV121" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC001AccountRegistrationTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -179,31 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC001_AccountRegistrationTest.verify_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpencartV121" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC001_AccountRegistrationTest" />
-      <option name="METHOD_NAME" value="verify_account_registration" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" />
         <item itemvalue="TestNG.TC001AccountRegistrationTest.verify_account_registration" />
-        <item itemvalue="TestNG.TC001AccountRegistrationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +215,8 @@
     <MESSAGE value="11202026" />
     <MESSAGE value="11222026" />
     <MESSAGE value="11222026_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="11222026_1" />
+    <MESSAGE value="11232026" />
+    <option name="LAST_COMMIT_MESSAGE" value="11232026" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
