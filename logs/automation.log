@@ -103,3 +103,40 @@
 
 2026-11-24 13:34:48 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
 2026-11-24 13:34:51 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
+2026-11-24 17:18:57 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 17:19:10 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 17:19:10 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 17:19:11 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 17:19:11 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 17:19:13 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 17:19:13 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 17:19:17 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 17:19:18 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
+2026-11-24 17:22:17 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\master.xml
+
+2026-11-24 17:22:24 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 17:22:24 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 17:22:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 17:22:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 17:22:28 INFO  TC001_AccountRegistrationTest:43 - Validating expected message...
+2026-11-24 17:22:28 INFO  TC001_AccountRegistrationTest:52 - *** Finished TC001_AccountRegistrationTest ***
+2026-11-24 17:22:32 INFO  TC002_LoginTest:15 - *** Starting TC002_Verify Login test ***
+2026-11-24 17:22:35 INFO  TC002_LoginTest:37 - *** Finished TC002_Verify Login test ***
+2026-11-24 17:26:16 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\crossbrowsertesting.xml
+
+2026-11-24 17:26:16 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 17:26:16 ERROR TC001_AccountRegistrationTest:47 - Test failed...
+2026-11-24 17:26:28 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 17:26:29 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account link
+2026-11-24 17:26:29 INFO  TC001_AccountRegistrationTest:16 - *** Starting TC001_AccountRegistrationTest ***
+2026-11-24 17:26:34 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register link
+2026-11-24 17:26:34 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-11-24 17:26:34 ERROR TC001_AccountRegistrationTest:47 - Test failed...
+2026-11-24 17:26:35 ERROR TC001_AccountRegistrationTest:47 - Test failed...
+2026-11-24 17:28:02 INFO  Utils:112 - [TestNG] Running:
+  D:\PractiesJAVASELENIUM\OpencartV121\crossbrowsertesting.xml
+

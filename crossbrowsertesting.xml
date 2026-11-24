@@ -24,11 +24,12 @@
         </classes>
     </test>
 
-    <test name="firefoxtest">
+    <test name="firefox">
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="Firefox"/>
         <classes>
             <class name="testCases.TC001_AccountRegistrationTest"/>
         </classes>
     </test>
+
 </suite>
