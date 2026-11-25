@@ -17,6 +17,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
@@ -65,6 +66,7 @@ public class BaseClass {
 			{
 				case "chrome" : cap.setBrowserName("chrome"); break;
 				case "edge" : cap.setBrowserName("MicrosoftEdge"); break;
+				case "firefox" : cap.setBrowserName("Firefox"); break;
                 default: System.out.println("No matching browser."); return;
 			}
 
@@ -78,6 +80,7 @@ public class BaseClass {
 			{
 				case "chrome": driver=new ChromeDriver(); break;
 				case "edge": driver=new EdgeDriver(); break;
+				case "firefox": driver=new FirefoxDriver(); break;
 				default: System.out.println("No matching browser..");
 					return;
 			}

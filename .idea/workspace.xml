@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11242026_1">
+    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11242026_2">
+      <change afterPath="$PROJECT_DIR$/grid-docker.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crossbrowsertesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossbrowsertesting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testBase/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testBase/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Master Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -99,7 +88,7 @@
       <recent name="D:\PractiesJAVASELENIUM\OpencartV121\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml">
+  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
     <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpencartV121" />
       <shortenClasspath name="NONE" />
@@ -170,16 +159,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpencartV121" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TC001_AccountRegistrationTest" type="TestNG" nameIsGenerated="true">
       <module name="OpencartV121" />
       <shortenClasspath name="NONE" />
@@ -208,21 +187,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
       <item itemvalue="TestNG.TC001_AccountRegistrationTest" />
       <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml" />
       <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" />
       <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
       <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml" />
-      <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/crossbrowsertesting.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/master.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/test-output/testng-failed.xml" />
         <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/grouping.xml" />
-        <item itemvalue="TestNG.D:/PractiesJAVASELENIUM/OpencartV121/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +245,8 @@
     <MESSAGE value="11232026" />
     <MESSAGE value="11242026" />
     <MESSAGE value="11242026_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="11242026_1" />
+    <MESSAGE value="11242026_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="11242026_2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
