@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11252026" />
+    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11252026">
+      <change beforePath="$PROJECT_DIR$/Testing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
