@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11252026">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/AccountRegistrationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/MyAccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testBase/BaseClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC001_AccountRegistrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC002_LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC_003_LoginDDT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/DataProviders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ExcelUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ExtentReportManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Master Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5da5060-c04f-422a-9886-3329d0ef3365" name="Changes" comment="11252026" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
